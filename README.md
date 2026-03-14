@@ -23,3 +23,5 @@ Projeto de análise exploratória de dados utilizando Python para investigar pad
 ![Jogos por ano](images/jogos_por_ano.png)
 ![Top jogos](images/top10_jogos.png)
 ![Heatmap](images/heatmap_genero_regiao.png)
+
+.
