@@ -20,6 +20,6 @@ Projeto de análise exploratória de dados utilizando Python para investigar pad
 
 ## Exemplos de visualizações
 
-![Jogos por ano]([images/jogos_por_ano.png](https://github.com/arnaldweger/Vendas_de_Videogames/blob/main/images/jogos_por_ano.png))
-![Top 10 jogos](images/top10_jogos.png)
-![Heatmap]([images/heatmap_genero_regiao.png](https://github.com/arnaldweger/Vendas_de_Videogames/blob/main/images/vendas_genero_regiao.png))
+![Jogos por ano](images/jogos_por_ano.png)
+![Top jogos](images/top10_jogos.png)
+![Heatmap](images/heatmap_genero_regiao.png)
